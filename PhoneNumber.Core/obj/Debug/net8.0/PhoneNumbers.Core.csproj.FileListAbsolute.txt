@@ -1,0 +1,11 @@
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\bin\Debug\net8.0\PhoneNumbers.Core.deps.json
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\bin\Debug\net8.0\PhoneNumbers.Core.dll
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\bin\Debug\net8.0\PhoneNumbers.Core.pdb
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\PhoneNumbers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\PhoneNumbers.Core.AssemblyInfoInputs.cache
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\PhoneNumbers.Core.AssemblyInfo.cs
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\PhoneNumbers.Core.csproj.CoreCompileInputs.cache
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\PhoneNumbers.Core.dll
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\refint\PhoneNumbers.Core.dll
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\PhoneNumbers.Core.pdb
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumber.Core\obj\Debug\net8.0\ref\PhoneNumbers.Core.dll

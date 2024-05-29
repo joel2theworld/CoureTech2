@@ -1,0 +1,15 @@
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\bin\Debug\net8.0\PhoneNumbers.Application.deps.json
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\bin\Debug\net8.0\PhoneNumbers.Application.dll
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\bin\Debug\net8.0\PhoneNumbers.Application.pdb
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\bin\Debug\net8.0\PhoneNumbers.Core.dll
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\bin\Debug\net8.0\PhoneNumbers.Core.pdb
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNumbers.Application.csproj.AssemblyReference.cache
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNumbers.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNumbers.Application.AssemblyInfoInputs.cache
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNumbers.Application.AssemblyInfo.cs
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNumbers.Application.csproj.CoreCompileInputs.cache
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNum.B26FA87F.Up2Date
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNumbers.Application.dll
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\refint\PhoneNumbers.Application.dll
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\PhoneNumbers.Application.pdb
+C:\Users\joel2\OneDrive\Desktop\CTAssessment2\PhoneNumbers.Application\obj\Debug\net8.0\ref\PhoneNumbers.Application.dll
